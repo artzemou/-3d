@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1550"
+   height="790"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="Petra_Byzantine_church_plan.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       inkscape:stockid="Arrow2Lend"
+       refY="0"
+       id="marker6946"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         id="path12584"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <linearGradient
+       id="linearGradient2900">
+      <stop
+         id="stop2902"
+         style="stop-color:#5359b1;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop4679"
+         style="stop-color:#4a85d3;stop-opacity:0.49803922;"
+         offset="0.65454543" />
+      <stop
+         id="stop2904"
+         style="stop-color:#63b6d1;stop-opacity:0;"
+         offset="1" />
+    </linearGradient>
+    <font
+       fontVariant="normal"
+       fullFontName="Arial"
+       id="FontID0"
+       fontWeight="400,700">
+      <font-face
+         font-family="Arial"
+         id="font-face7" />
+      <missing-glyph
+         id="missing-glyph9">
+        <path
+           d="M0 0z"
+           id="path11" />
+      </missing-glyph>
+      <glyph
+         unicode="O"
+         id="glyph13"
+         horiz-adv-x="777">
+        <path
+           d="M40 350c0,80 10,140 40,190 10,30 30,70 60,100 30,20 60,50 100,60 40,20 90,30 150,30 110,0 190,-30 250,-100 70,-70 100,-160 100,-270 0,-120 -30,-210 -100,-270 -60,-70 -140,-100 -250,-100 -100,0 -190,30 -250,100 -70,60 -100,150 -100,260zm150 10c0,-80 20,-140 60,-190 40,-40 80,-60 140,-60 60,0 110,20 140,60 40,50 60,110 60,190 0,80 -20,140 -60,180 -30,40 -80,60 -140,60 -60,0 -110,-20 -140,-60 -40,-40 -60,-100 -60,-180z"
+           id="path15" />
+      </glyph>
+      <glyph
+         unicode="N"
+         id="glyph17"
+         horiz-adv-x="722">
+        <path
+           d="M70 0l0 720 140 0 300 -480 0 480 130 0 0 -720 -140 0 -290 470 0 -470 -140 0z"
+           id="path19" />
+      </glyph>
+      <glyph
+         unicode="W"
+         id="glyph21"
+         horiz-adv-x="943">
+        <path
+           d="M170 0l-170 720 150 0 110 -500 130 500 170 0 130 -500 110 500 140 0 -170 -720 -150 0 -150 540 -140 -540 -160 0z"
+           id="path23" />
+      </glyph>
+      <glyph
+         unicode="S"
+         id="glyph25"
+         horiz-adv-x="667">
+        <path
+           d="M40 230l140 20c10,-50 20,-90 50,-110 20,-20 60,-30 100,-30 50,0 80,10 110,30 20,20 30,40 30,70 0,20 0,30 -10,40 -10,10 -30,20 -50,30 -20,10 -60,20 -120,30 -80,20 -130,50 -160,70 -50,40 -70,90 -70,150 0,30 10,70 30,100 20,30 50,60 90,70 40,20 90,30 140,30 90,0 160,-20 210,-60 40,-40 70,-90 70,-160l-150 -10c0,40 -20,70 -40,80 -20,20 -50,30 -90,30 -40,0 -70,-10 -100,-30 -10,-10 -20,-20 -20,-40 0,-20 10,-30 20,-50 20,-10 60,-30 130,-40 70,-20 130,-40 160,-50 30,-20 60,-50 80,-80 20,-30 30,-70 30,-110 0,-40 -10,-80 -40,-120 -20,-30 -50,-60 -90,-80 -40,-10 -100,-20 -160,-20 -90,0 -160,20 -210,60 -50,40 -70,100 -80,180z"
+           id="path27" />
+      </glyph>
+    </font>
+    <style
+       id="style29"
+       type="text/css">
+   
+    @font-face { font-family:&quot;Arial&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .str0 {stroke:#1F1A17;stroke-width:4;stroke-linejoin:round}
+    .fil2 {fill:none}
+    .fil3 {fill:#1F1A17}
+    .fil1 {fill:#969594}
+    .fil0 {fill:#FAFBFB}
+    .fil5 {fill:#44A1CD}
+    .fil4 {fill:#D2DFE7}
+    .fnt2 {font-weight:bold;font-size:100;font-family:Arial}
+    .fnt1 {font-weight:normal;font-size:150;font-family:Arial}
+    .fnt0 {font-weight:bold;font-size:200;font-family:Arial}
+   
+  </style>
+    <style
+       id="style19926"
+       type="text/css">
+   
+    @font-face { font-family:&quot;Arial&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .str0 {stroke:#1F1A17;stroke-width:4;stroke-linejoin:round}
+    .fil2 {fill:none}
+    .fil3 {fill:#1F1A17}
+    .fil1 {fill:#969594}
+    .fil0 {fill:#FAFBFB}
+    .fil5 {fill:#44A1CD}
+    .fil4 {fill:#D2DFE7}
+    .fnt2 {font-weight:bold;font-size:100;font-family:Arial}
+    .fnt1 {font-weight:normal;font-size:150;font-family:Arial}
+    .fnt0 {font-weight:bold;font-size:200;font-family:Arial}
+   
+  </style>
+    <font
+       fontVariant="normal"
+       fullFontName="Arial"
+       id="font19902"
+       fontWeight="400,700">
+      <font-face
+         font-family="Arial"
+         id="font-face19904" />
+      <missing-glyph
+         id="missing-glyph19906">
+        <path
+           id="path19908"
+           d="M0 0z" />
+      </missing-glyph>
+      <glyph
+         horiz-adv-x="777"
+         id="glyph19910"
+         unicode="O">
+        <path
+           id="path19912"
+           d="M40 350c0,80 10,140 40,190 10,30 30,70 60,100 30,20 60,50 100,60 40,20 90,30 150,30 110,0 190,-30 250,-100 70,-70 100,-160 100,-270 0,-120 -30,-210 -100,-270 -60,-70 -140,-100 -250,-100 -100,0 -190,30 -250,100 -70,60 -100,150 -100,260zm150 10c0,-80 20,-140 60,-190 40,-40 80,-60 140,-60 60,0 110,20 140,60 40,50 60,110 60,190 0,80 -20,140 -60,180 -30,40 -80,60 -140,60 -60,0 -110,-20 -140,-60 -40,-40 -60,-100 -60,-180z" />
+      </glyph>
+      <glyph
+         horiz-adv-x="722"
+         id="glyph19914"
+         unicode="N">
+        <path
+           id="path19916"
+           d="M70 0l0 720 140 0 300 -480 0 480 130 0 0 -720 -140 0 -290 470 0 -470 -140 0z" />
+      </glyph>
+      <glyph
+         horiz-adv-x="943"
+         id="glyph19918"
+         unicode="W">
+        <path
+           id="path19920"
+           d="M170 0l-170 720 150 0 110 -500 130 500 170 0 130 -500 110 500 140 0 -170 -720 -150 0 -150 540 -140 -540 -160 0z" />
+      </glyph>
+      <glyph
+         horiz-adv-x="667"
+         id="glyph19922"
+         unicode="S">
+        <path
+           id="path19924"
+           d="M40 230l140 20c10,-50 20,-90 50,-110 20,-20 60,-30 100,-30 50,0 80,10 110,30 20,20 30,40 30,70 0,20 0,30 -10,40 -10,10 -30,20 -50,30 -20,10 -60,20 -120,30 -80,20 -130,50 -160,70 -50,40 -70,90 -70,150 0,30 10,70 30,100 20,30 50,60 90,70 40,20 90,30 140,30 90,0 160,-20 210,-60 40,-40 70,-90 70,-160l-150 -10c0,40 -20,70 -40,80 -20,20 -50,30 -90,30 -40,0 -70,-10 -100,-30 -10,-10 -20,-20 -20,-40 0,-20 10,-30 20,-50 20,-10 60,-30 130,-40 70,-20 130,-40 160,-50 30,-20 60,-50 80,-80 20,-30 30,-70 30,-110 0,-40 -10,-80 -40,-120 -20,-30 -50,-60 -90,-80 -40,-10 -100,-20 -160,-20 -90,0 -160,20 -210,60 -50,40 -70,100 -80,180z" />
+      </glyph>
+    </font>
+    <linearGradient
+       id="linearGradient19894">
+      <stop
+         id="stop19896"
+         style="stop-color:#5359b1;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop19898"
+         style="stop-color:#4a85d3;stop-opacity:0.49803922;"
+         offset="0.65454543" />
+      <stop
+         id="stop19900"
+         style="stop-color:#63b6d1;stop-opacity:0;"
+         offset="1" />
+    </linearGradient>
+    <marker
+       refX="0"
+       inkscape:stockid="Arrow2Lend"
+       refY="0"
+       id="marker19890"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         id="path19892"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       inkscape:stockid="Arrow2Lend"
+       refY="0"
+       id="Arrow2Lend"
+       orient="auto"
+       style="overflow:visible">
+      <path
+         id="path6583"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <linearGradient
+       id="linearGradient6041">
+      <stop
+         style="stop-color:#5359b1;stop-opacity:1;"
+         offset="0"
+         id="stop6043" />
+      <stop
+         id="stop6045"
+         offset="0.65454543"
+         style="stop-color:#4a85d3;stop-opacity:0.49803922;" />
+      <stop
+         style="stop-color:#63b6d1;stop-opacity:0;"
+         offset="1"
+         id="stop6047" />
+    </linearGradient>
+    <font
+       id="font6017"
+       fullFontName="Arial"
+       fontVariant="normal"
+       fontWeight="400,700">
+      <font-face
+         font-family="Arial"
+         id="font-face6019" />
+      <missing-glyph
+         id="missing-glyph6021">
+        <path
+           d="M0 0z"
+           id="path6023" />
+      </missing-glyph>
+      <glyph
+         unicode="O"
+         horiz-adv-x="777"
+         id="glyph6025">
+        <path
+           d="M40 350c0,80 10,140 40,190 10,30 30,70 60,100 30,20 60,50 100,60 40,20 90,30 150,30 110,0 190,-30 250,-100 70,-70 100,-160 100,-270 0,-120 -30,-210 -100,-270 -60,-70 -140,-100 -250,-100 -100,0 -190,30 -250,100 -70,60 -100,150 -100,260zm150 10c0,-80 20,-140 60,-190 40,-40 80,-60 140,-60 60,0 110,20 140,60 40,50 60,110 60,190 0,80 -20,140 -60,180 -30,40 -80,60 -140,60 -60,0 -110,-20 -140,-60 -40,-40 -60,-100 -60,-180z"
+           id="path6027" />
+      </glyph>
+      <glyph
+         unicode="N"
+         horiz-adv-x="722"
+         id="glyph6029">
+        <path
+           d="M70 0l0 720 140 0 300 -480 0 480 130 0 0 -720 -140 0 -290 470 0 -470 -140 0z"
+           id="path6031" />
+      </glyph>
+      <glyph
+         unicode="W"
+         horiz-adv-x="943"
+         id="glyph6033">
+        <path
+           d="M170 0l-170 720 150 0 110 -500 130 500 170 0 130 -500 110 500 140 0 -170 -720 -150 0 -150 540 -140 -540 -160 0z"
+           id="path6035" />
+      </glyph>
+      <glyph
+         unicode="S"
+         horiz-adv-x="667"
+         id="glyph6037">
+        <path
+           d="M40 230l140 20c10,-50 20,-90 50,-110 20,-20 60,-30 100,-30 50,0 80,10 110,30 20,20 30,40 30,70 0,20 0,30 -10,40 -10,10 -30,20 -50,30 -20,10 -60,20 -120,30 -80,20 -130,50 -160,70 -50,40 -70,90 -70,150 0,30 10,70 30,100 20,30 50,60 90,70 40,20 90,30 140,30 90,0 160,-20 210,-60 40,-40 70,-90 70,-160l-150 -10c0,40 -20,70 -40,80 -20,20 -50,30 -90,30 -40,0 -70,-10 -100,-30 -10,-10 -20,-20 -20,-40 0,-20 10,-30 20,-50 20,-10 60,-30 130,-40 70,-20 130,-40 160,-50 30,-20 60,-50 80,-80 20,-30 30,-70 30,-110 0,-40 -10,-80 -40,-120 -20,-30 -50,-60 -90,-80 -40,-10 -100,-20 -160,-20 -90,0 -160,20 -210,60 -50,40 -70,100 -80,180z"
+           id="path6039" />
+      </glyph>
+    </font>
+    <style
+       type="text/css"
+       id="style6015">
+   
+    @font-face { font-family:&quot;Arial&quot;;src:url(&quot;#FontID0&quot;) format(svg)}
+    .str0 {stroke:#1F1A17;stroke-width:4;stroke-linejoin:round}
+    .fil2 {fill:none}
+    .fil3 {fill:#1F1A17}
+    .fil1 {fill:#969594}
+    .fil0 {fill:#FAFBFB}
+    .fil5 {fill:#44A1CD}
+    .fil4 {fill:#D2DFE7}
+    .fnt2 {font-weight:bold;font-size:100;font-family:Arial}
+    .fnt1 {font-weight:normal;font-size:150;font-family:Arial}
+    .fnt0 {font-weight:bold;font-size:200;font-family:Arial}
+   
+  </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="772.92669"
+     inkscape:cy="353.65113"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     width="1550px"
+     height="790px"
+     inkscape:window-width="1280"
+     inkscape:window-height="1005"
+     inkscape:window-x="57"
+     inkscape:window-y="34"
+     showgrid="false"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Plan of the &quot;Byzantine church&quot; of Petra, Jordan (5th Century AD)</dc:title>
+        <dc:date>June 2007</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Eric Gaba (fr-user:Sting) for Wikipedia</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>Reference : &quot;Petra Rediscovered&quot; by Glenn Markoe and Glen W. Bowersock, Editor Thames &amp; H. (14 Sept., 2005), ISBN-13: 978-0500051269</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Plan"
+     style="display:inline">
+    <path
+       style="fill:#737373;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 1114.1983,177.59502 L 1114.1983,289.97449 L 888.6817,294.0151 L 888.6817,304.87424 L 892.46977,304.87424 L 892.46977,316.99607 L 1169.5041,313.208 L 1169.5041,304.36916 L 1167.2313,304.36916 L 1167.2313,289.72195 L 1142.23,289.72195 L 1140.1466,177.08994 L 1114.1983,177.59502 z "
+       id="path2209"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#737373;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 710.32665,678.50441 L 728.31999,678.50441 L 727.94118,568.52405 L 708.62202,568.52405 L 710.32665,678.50441 z "
+       id="path3188"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#737373;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 707.10678,501.22264 L 727.94118,501.22264 L 726.80476,391.9999 L 706.60171,391.9999 L 707.10678,501.22264 z "
+       id="path3190" />
+    <path
+       style="fill:#737373;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 706.53858,354.87679 L 725.7946,354.87679 L 725.7946,321.41549 L 862.29147,319.14264 L 862.29147,305.88439 L 864.31177,305.88439 L 864.31177,295.90914 L 683.62074,298.68705 L 683.62074,312.07158 L 686.27239,312.07158 L 686.27239,321.41549 L 706.52279,321.41549 L 706.53858,354.87679 z "
+       id="path3192"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       style="fill:#737373;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 780.17857,118.75 L 780.17857,231.60714 L 639.82143,232.67857 L 639.82143,261.07143 L 624.46429,261.07143 L 624.46429,233.21428 L 565.53572,233.75 L 566.25,305.35714 L 624.46429,304.64286 L 624.46429,271.25 L 639.82143,271.25 L 639.82143,298.57143 L 650.35714,298.57143 L 650.35714,313.75 L 648.39286,313.75 L 648.39286,321.96428 L 330.53571,325.71428 L 330.53571,310.17857 L 336.78571,310.17857 L 336.78571,294.10714 L 353.39286,294.10714 L 353.39286,308.92857 L 396.42857,308.92857 L 396.42857,292.14286 L 414.10714,292.14286 L 414.10714,308.52678 L 427.14286,308.52678 L 427.14286,292.14286 L 446.42857,292.14286 L 446.42857,307.94642 L 502.14286,306.78571 L 502.14286,290 L 519.33036,290 L 519.33036,306.96428 L 552.32143,306.96428 L 551.78572,216.78571 L 765.53572,213.57143 L 764.28572,118.57143 L 780.17857,118.75 z "
+       id="path3194"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="fill:#737373;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 28.9375,170.90625 L 31.4375,775.1875 L 478.9375,771.0625 L 478.75,746.0625 L 278.40625,746.0625 L 278.9375,670.71875 L 259.46875,670.71875 L 258.9375,720.90625 L 127.5,720.90625 L 128.03125,587.15625 L 260.90625,586.4375 L 260.53125,643.5625 L 280.53125,643.5625 L 284.28125,375.90625 L 265.34375,375.90625 L 265.34375,408.53125 L 98.40625,408.53125 L 98.40625,428.40625 L 265,428.03125 L 262.15625,561.4375 L 48.40625,564.09375 L 48.40625,428.5625 L 71.0625,428.5625 L 71.0625,408.90625 L 47.84375,408.90625 L 47.84375,250.71875 L 68.9375,250.71875 L 68.9375,235.71875 L 47.15625,235.71875 L 47.15625,170.90625 L 28.9375,170.90625 z M 48.5625,587.0625 L 111.15625,587.0625 L 108.84375,738.84375 L 257.40625,738.46875 L 257.40625,750 L 48.125,750.8125 L 48.5625,587.0625 z "
+       id="path3196" />
+    <path
+       style="fill:#737373;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 265.625,337.58928 L 284.46429,337.58928 L 284.46429,327.76786 L 302.32143,327.76786 L 302.32143,310.98214 L 284.91072,310.98214 L 286.69643,202.14286 L 269.73214,202.14286 L 269.73214,237.23214 L 173.83929,236.38393 L 173.48214,168.75 L 160.17857,168.75 L 160.17857,235.80357 L 96.160715,235.80357 L 96.160715,250.625 L 269.64286,251.875 L 267.85714,330.71428 L 265.625,330.71428 L 265.625,337.58928 z "
+       id="path3201"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Scale - key"
+     style="display:inline" />
+</svg>
